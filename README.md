@@ -1,3 +1,1 @@
 # fire
-
-ModelE-YIBs output
